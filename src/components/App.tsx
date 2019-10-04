@@ -92,10 +92,10 @@ class App extends React.Component<IAppProps, IAppState> {
           <NavbarBrand href="/">OSPJN Visualizador</NavbarBrand>
             <Nav className="ml-auto" navbar={true}>
               <NavItem>
-                <NavLink href="https://www.ospjn.gov.ar/web/">Página de OSPJN</NavLink>
+                <NavLink target="_blank" href="https://www.ospjn.gov.ar/web/">Página de OSPJN</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="https://github.com/JuanQP/ospjn-visualizador">GitHub</NavLink>
+                <NavLink target="_blank" href="https://github.com/JuanQP/ospjn-visualizador">GitHub</NavLink>
               </NavItem>
             </Nav>
         </Navbar>
