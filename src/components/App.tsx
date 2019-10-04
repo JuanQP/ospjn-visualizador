@@ -1,3 +1,5 @@
+import { faCodeBranch, faExternalLinkAlt, faInfo } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import * as React from "react";
 import {
   Map,
@@ -7,11 +9,15 @@ import {
 } from "react-leaflet";
 import Select from "react-select";
 import {
+  Button,
   Col,
   Container,
   Form,
   FormGroup,
   Label,
+  Modal,
+  ModalBody,
+  ModalHeader,
   Nav,
   Navbar,
   NavbarBrand,
@@ -28,7 +34,7 @@ interface IPrestador {
   posicion: [number, number];
 }
 
-interface IEspecialidad {
+export interface IEspecialidad {
   descripcion: string;
   prestadores: IPrestador[];
 }
@@ -39,6 +45,7 @@ interface IAppProps extends React.ClassAttributes<App> {
 }
 
 interface IAppState extends React.ClassAttributes<App> {
+  modal: boolean;
   select2_value: Array<{value: string, label: string}>;
   select2_options: Array<{value: string, label: string}>;
 }
@@ -53,6 +60,7 @@ class App extends React.Component<IAppProps, IAppState> {
     super(props);
     const {especialidades} = this.props;
     this.state = {
+      modal: false,
       select2_options: especialidades.map((e, i) => ({
         label: e.descripcion,
         value: i.toString(),
@@ -60,6 +68,7 @@ class App extends React.Component<IAppProps, IAppState> {
       select2_value: [],
     };
     this.handleEspecialidadChange = this.handleEspecialidadChange.bind(this);
+    this.toggle = this.toggle.bind(this);
   }
 
   public render() {
@@ -92,18 +101,50 @@ class App extends React.Component<IAppProps, IAppState> {
           <NavbarBrand href="/">OSPJN Visualizador</NavbarBrand>
             <Nav className="ml-auto" navbar={true}>
               <NavItem>
-                <NavLink target="_blank" href="https://www.ospjn.gov.ar/web/">Página de OSPJN</NavLink>
+                <NavLink
+                  tag={Button}
+                  outline={true}
+                  color={"primary"}
+                  target="_blank"
+                  href="https://www.ospjn.gov.ar/web/"
+                >
+                  Web de OSPJN{" "}<FontAwesomeIcon icon={faExternalLinkAlt} />
+                </NavLink>
               </NavItem>
               <NavItem>
-                <NavLink target="_blank" href="https://github.com/JuanQP/ospjn-visualizador">GitHub</NavLink>
+                <NavLink
+                  tag={Button}
+                  outline={true}
+                  color={"success"}
+                  target="_blank"
+                  href="https://github.com/JuanQP/ospjn-visualizador"
+                >
+                  GitHub{" "}<FontAwesomeIcon icon={faCodeBranch} />
+                </NavLink>
+              </NavItem>
+              <NavItem>
+                <NavLink
+                  tag={Button}
+                  outline={true}
+                  color={"info"}
+                  href="#"
+                  onClick={this.toggle}
+                >
+                  Acerca De{" "}<FontAwesomeIcon icon={faInfo} />
+                </NavLink>
               </NavItem>
             </Nav>
         </Navbar>
+        <Modal isOpen={this.state.modal} toggle={this.toggle} size="lg">
+          <ModalHeader toggle={this.toggle}>Acerca de esta página</ModalHeader>
+          <ModalBody>
+            <p className="lead">Esta página fue realizada para poder visualizar de forma más amigable los prestadores de servicio de la OSPJN</p>
+            <p className="lead">La información que presenta la página oficial sobre las direcciones es poco útil cuando uno no tiene un mapa a mano. Esta página utiliza la misma información que la página oficial, pero la presenta de una forma distinta, con marcadores en un mapa, de esta forma es posible usar información de manera más inteligente (por ejemplo comparar distancia al trabajo o a nuestras casas, cosas que son muy difíciles de ver en una lista de direcciones).</p>
+            <p className="lead">Última revisión de la información de los prestadores: <kbd>04/10/2019</kbd></p>
+          </ModalBody>
+        </Modal>
         <Row>
           <Col>
-          <p>
-            Visualizador de Prestadores de Servicios del OSPJN hecho <em>un poquito mejor.</em>
-          </p>
           <Form>
             <FormGroup style={{zIndex: 401}}>
               <Label>Especialidad</Label>
@@ -136,6 +177,12 @@ class App extends React.Component<IAppProps, IAppState> {
         </Row>
       </Container>
     );
+  }
+
+  private toggle(): void {
+    this.setState((prevState) => ({
+      modal: !prevState.modal,
+    }));
   }
 
   private marcadores_especialidad(especialidad: IEspecialidad): JSX.Element[] {
