@@ -1,0 +1,633 @@
+{
+    "especialidades": [
+        {
+            "descripcion": "Odontología General",
+            "prestadores": [
+                {
+                  "nombre": "Aguayo & Rozanski Odontologia Sas",
+                  "domicilio": "Tucumán 983",
+                  "domicilio_completo": "Tucumán 983 P:4° D:D",
+                  "telefonos": "4326-0248 / Wathsapp 11-62512130 / aguay",
+                  "posicion": [-34.6013045,-58.3808275]
+                },
+                {
+                  "nombre": "Akselrad, Yésica Alejandra",
+                  "domicilio": "Uspallata 671",
+                  "domicilio_completo": "Uspallata 671",
+                  "telefonos": "4307 8642",
+                  "posicion": [-34.6306563,-58.3732562]
+                },
+                {
+                  "nombre": "Alonso Leandro Angel",
+                  "domicilio": "Echeverría 5131",
+                  "domicilio_completo": "Echeverría 5131 P:4 D:A",
+                  "telefonos": "2101-3634 / 15-65222595",
+                  "posicion": [-34.5795284,-58.4824464]
+                },
+                {
+                  "nombre": "Altman Laura Veronica",
+                  "domicilio": "Lavalle 2574",
+                  "domicilio_completo": "Lavalle 2574 P:3 D:F",
+                  "telefonos": "4953-7962 - 4952-8471",
+                  "posicion": [-34.6035138,-58.4031361]
+                },
+                {
+                  "nombre": "Alvarez, Felix Eduardo",
+                  "domicilio": "Talcahuano 1097",
+                  "domicilio_completo": "Talcahuano 1097 P:11 D:F",
+                  "telefonos": "4811-1312",
+                  "posicion": [-34.5959456,-58.38565]
+                }
+            ]
+        },
+        {
+            "descripcion": "Oftalmología",
+            "prestadores": [
+                {
+                    "nombre": "Acosta, Jorge Eduardo",
+                    "domicilio": "Juncal 2345",
+                    "domicilio_completo": "Juncal 2345 P:2",
+                    "telefonos": "4826-8282",
+                    "posicion": [-34.5917685,-58.4003479]
+                  },
+                  {
+                    "nombre": "Aldanondo De Dinisio, Ma.Del Rosario",
+                    "domicilio": "Uruguay 766",
+                    "domicilio_completo": "Uruguay 766 P:4 D:24",
+                    "telefonos": "4371-9740 / 4371-5460 / 4372-8063",
+                    "posicion": [-34.5998438,-58.3869571]
+                  },
+                  {
+                    "nombre": "Anagua Llanos Cynthia Vanesa",
+                    "domicilio": "Paraná 539",
+                    "domicilio_completo": "Paraná 539 P:1° D:8",
+                    "telefonos": "4371-5697 / 5841-0792",
+                    "posicion": [-34.6023779,-58.3878985]
+                  },
+                  {
+                    "nombre": "Andersson Pablo Andres",
+                    "domicilio": "Larrea 1035",
+                    "domicilio_completo": "Larrea 1035 P:3 D:A",
+                    "telefonos": "4827-5130 / 4827-5131",
+                    "posicion": [-34.5958296,-58.4013803]
+                  },
+                  {
+                    "nombre": "Antacle Alejandra Claudia",
+                    "domicilio": "Av. Libertador 5190",
+                    "domicilio_completo": "Av. Libertador 5190 P:4º D:B",
+                    "telefonos": "4772-4559 / 4778-7068",
+                    "posicion": [-34.5629045,-58.4394751]
+                  }
+            ]
+        },
+        {
+            "descripcion": "Óptica",
+            "prestadores": [
+                {
+                    "nombre": "Bk Gafas Srl",
+                    "domicilio": "Defensa 1377",
+                    "domicilio_completo": "Defensa 1377",
+                    "telefonos": "4307 5354 / 4931-0210",
+                    "posicion": [-34.623953,-58.3712507]
+                  },
+                  {
+                    "nombre": "Cornealent Belgrano S.A.",
+                    "domicilio": "Av. Cabildo 604",
+                    "domicilio_completo": "Av. Cabildo 604 P:PB",
+                    "telefonos": "4781-7289",
+                    "posicion": [-34.5711006,-58.4431756]
+                  },
+                  {
+                    "nombre": "Cornealent Optical Center",
+                    "domicilio": "Sarmiento 1416",
+                    "domicilio_completo": "Sarmiento 1416",
+                    "telefonos": "4664-6229",
+                    "posicion": [-34.6054044,-58.3866433]
+                  },
+                  {
+                    "nombre": "Cornealent Panamericana S.A.",
+                    "domicilio": "Av. Maipu 1771",
+                    "domicilio_completo": "Av. Maipu 1771",
+                    "telefonos": "4796 5512",
+                    "posicion": [-34.5212299,-58.484793]
+                  },
+                  {
+                    "nombre": "Cornealent Quilmes S.R.L.",
+                    "domicilio": "Brown 523",
+                    "domicilio_completo": "Brown 523",
+                    "telefonos": "4254-3356",
+                    "posicion": [-34.720429,-58.257151]
+                  }
+            ]
+        },
+        {
+            "descripcion": "Otorrinolaringología",
+            "prestadores": [
+                {
+                    "nombre": "Acuña Gonzalez, Franklin",
+                    "domicilio": "O Higgins 1376",
+                    "domicilio_completo": "O Higgins 1376 P:PB D:2",
+                    "telefonos": "4782-4855 / 4827-8277",
+                    "posicion": [-34.5668237,-58.4472784]
+                  },
+                  {
+                    "nombre": "Benzaquen, Horacio",
+                    "domicilio": "Zabala 2424",
+                    "domicilio_completo": "Zabala 2424 P:PB D:E",
+                    "telefonos": "4785-9931",
+                    "posicion": [-34.5683385,-58.4492322]
+                  },
+                  {
+                    "nombre": "Bottazzi Marcela Alejandra",
+                    "domicilio": "Av. Pueyrredón 1108",
+                    "domicilio_completo": "Av. Pueyrredón 1108 P:2° D:C",
+                    "telefonos": "4961-4027 / consultorioselaleph@draap.co",
+                    "posicion": [-34.5973416,-58.4035528]
+                  },
+                  {
+                    "nombre": "Cafaro, Jose Ernesto",
+                    "domicilio": "Francisco Beiro 4294",
+                    "domicilio_completo": "Francisco Beiro 4294 P:PB D:B",
+                    "telefonos": "4502-1920 / 4786-5289",
+                    "posicion": [-34.6054821,-58.5109629]
+                  },
+                  {
+                    "nombre": "Campo Ezequiel",
+                    "domicilio": "Marcelo T. De Alvear 2346",
+                    "domicilio_completo": "Marcelo T. De Alvear 2346",
+                    "telefonos": "4965-1100",
+                    "posicion": [-34.5966215,-58.4009163]
+                  }
+            ]
+        },
+        {
+            "descripcion": "Dermatología",
+            "prestadores": [
+                {
+                    "nombre": "Abad, María Eugenia",
+                    "domicilio": "Vidal 2016",
+                    "domicilio_completo": "Vidal 2016 P:PB D:1",
+                    "telefonos": "4784-8906",
+                    "posicion": [-34.5649145, -58.4620495]
+                },
+                {
+                    "nombre": "Allevato Miguel Angel Jose",
+                    "domicilio": "Jose Maria Moreno 59",
+                    "domicilio_completo": "Jose Maria Moreno 59 P:1",
+                    "telefonos": "4964-2618 / 4961-1957 / 4904-2003 / 4904",
+                    "posicion": [-34.6190177, -58.4385638]
+                },
+                {
+                    "nombre": "Aragon Alba Agustina",
+                    "domicilio": "Junín 340",
+                    "domicilio_completo": "Junín 340 P:2 D:A",
+                    "telefonos": "4953-3242 / 4371-7207",
+                    "posicion": [-34.6054661,-58.3990411]
+                },
+                {
+                    "nombre": "Avenatti, Ricardo Andres",
+                    "domicilio": "Jose Luis Cantilo 5087",
+                    "domicilio_completo": "Jose Luis Cantilo 5087",
+                    "telefonos": "4568-3298 / 4639-2055 / 4639-2056",
+                    "posicion": [-34.6106691,-58.5253739]
+                },
+                {
+                    "nombre": "Avila, Juan Jose",
+                    "domicilio": "J E Uriburu 23",
+                    "domicilio_completo": "J E Uriburu 23 P:3",
+                    "telefonos": "4953-5836 / 15-5383-3332 / 15-5257-6634",
+                    "posicion": [-34.6093229,-58.399686]
+                },
+                {
+                    "nombre": "Balian, Maria Del Carmen",
+                    "domicilio": "Arenales 1446",
+                    "domicilio_completo": "Arenales 1446 P:7 D:A",
+                    "telefonos": "4815-6990",
+                    "posicion": [-34.5947112,-58.390119]
+                },
+                {
+                    "nombre": "Barbaro Valeria",
+                    "domicilio": "Pte. Roque Saenz Peña 868",
+                    "domicilio_completo": "Pte. Roque Saenz Peña 868 P:2°",
+                    "telefonos": "4393-2215",
+                    "posicion": [-34.6052039,-58.3811345]
+                },
+                {
+                    "nombre": "Belotti, María Teresa",
+                    "domicilio": "Rivadavia 5170",
+                    "domicilio_completo": "Rivadavia 5170 P:6 D:B",
+                    "telefonos": "4903-4149",
+                    "posicion": [-34.6195005,-58.4405916]
+                },
+                {
+                    "nombre": "Bermudez, Susana De Valle",
+                    "domicilio": "Mansilla 2491",
+                    "domicilio_completo": "Mansilla 2491 P:5° D:3",
+                    "telefonos": "4962-7677 / 15-52620094",
+                    "posicion": [-34.596608,-58.4049397]
+
+                },
+                {
+                    "nombre": "Brancciforte Maria De Los Milagros",
+                    "domicilio": "Senador Morón 1770",
+                    "domicilio_completo": "Senador Morón 1770",
+                    "telefonos": "4668-0194",
+                    "posicion": [-34.6213868,-58.4665329]
+                },
+                {
+                    "nombre": "Casco, Ricardo H.",
+                    "domicilio": "Rivadavia 1653",
+                    "domicilio_completo": "Rivadavia 1653 P:5 D:K",
+                    "telefonos": "4812-1881 / 4373-1385",
+                    "posicion": [-34.6090487,-58.3920907]
+                },
+                {
+                    "nombre": "Catterberg Poggi, Graciela",
+                    "domicilio": "San Martin De Tours 2980",
+                    "domicilio_completo": "San Martin De Tours 2980",
+                    "telefonos": "4801-8050 int 410 411",
+                    "posicion": [-34.5778133,-58.4062836]
+                },
+                {
+                    "nombre": "Cauhepe Alicia Monica",
+                    "domicilio": "Ayacucho 183",
+                    "domicilio_completo": "Ayacucho 183 P:PB",
+                    "telefonos": "4953-6998",
+                    "posicion": [-34.6072516,-58.3970937]
+                },
+                {
+                    "nombre": "Cemic",
+                    "domicilio": "Coronel Diaz 2423",
+                    "domicilio_completo": "Coronel Diaz 2423",
+                    "telefonos": "5299-0000 / 5299-0600 / 5299-0100 / 5299",
+                    "posicion": [-34.5846181,-58.4089945]
+                },
+                {
+                    "nombre": "Centro De Inves.Derm.Dres.Chouela",
+                    "domicilio": "J E Uriburu 1590",
+                    "domicilio_completo": "J E Uriburu 1590",
+                    "telefonos": "4805-7485",
+                    "posicion": [-34.590294,-58.3981977]
+                },
+                {
+                    "nombre": "Centro Medico Doctora Raya S.R.L.",
+                    "domicilio": "Avda. Monroe 5163",
+                    "domicilio_completo": "Avda. Monroe 5163 P:2°",
+                    "telefonos": "4524-7850/7857 / 4523-4873/2504 / 4521-0",
+                    "posicion": [-34.5744981,-58.4893092]
+                },
+                {
+                    "nombre": "Centro Medico San Jeronimo",
+                    "domicilio": "Gallo 548",
+                    "domicilio_completo": "Gallo 548",
+                    "telefonos": "4862-0305 / 4504-0040 / 4902-1473 / 4784",
+                    "posicion": [-34.6028657,-58.415187]
+                },
+                {
+                    "nombre": "Chajchir, Gabriela Irina",
+                    "domicilio": "José Hernández 1718",
+                    "domicilio_completo": "José Hernández 1718",
+                    "telefonos": "4780-2800 / 4786-0991",
+                    "posicion": [-34.562266,-58.4492667]
+                },
+                {
+                    "nombre": "Clinica Espora Sa",
+                    "domicilio": "Espora 645",
+                    "domicilio_completo": "Espora 645",
+                    "telefonos": "4293-4700 / 4293-1260 / 4293-5020",
+                    "posicion": [-34.7963166,-58.3905927]
+                },
+                {
+                    "nombre": "Clinica Privada Monte Grande S.A",
+                    "domicilio": "Gral. Rodirguez 158",
+                    "domicilio_completo": "Gral. Rodirguez 158",
+                    "telefonos": "4367-6706/6750 / 4367-6735 / 4367-6735 /",
+                    "posicion": [-34.8143145,-58.4683498]
+                },
+                {
+                    "nombre": "Colacino Mcc Estetica S.R.L.",
+                    "domicilio": "Uruguay 782",
+                    "domicilio_completo": "Uruguay 782 P:6",
+                    "telefonos": "43732442 / 4373-2445 / 4372-5826 -Daniel",
+                    "posicion": [-34.5996287,-58.3891226]
+                },
+                {
+                    "nombre": "Congregacion Hijas De San Camilo",
+                    "domicilio": "Angel Gallardo 899",
+                    "domicilio_completo": "Angel Gallardo 899",
+                    "telefonos": "4858-8600 / 4854-0061 / 4854-0062 / 4854",
+                    "posicion": [-34.6064472,-58.445135]
+                },
+                {
+                    "nombre": "Corporacion Med.De Gral.San Martin",
+                    "domicilio": "Matheu 4023",
+                    "domicilio_completo": "Matheu 4023",
+                    "telefonos": "4754-7500",
+                    "posicion": [-34.5775583,-58.5437403]
+                },
+                {
+                    "nombre": "D' Angelo Alicia Silvana",
+                    "domicilio": "Av. Scalabrini Ortiz 2894",
+                    "domicilio_completo": "Av. Scalabrini Ortiz 2894 P:5 D:\"A",
+                    "telefonos": "4804-1664",
+                    "posicion": [-34.582629,-58.4145031]
+                },
+                {
+                    "nombre": "De Maria, Cristina ",
+                    "domicilio": "Santa Fe 3288",
+                    "domicilio_completo": "Santa Fe 3288 P:5 D:A",
+                    "telefonos": "4824-0358",
+                    "posicion": [-34.5883705,-58.4136489]
+                },
+                {
+                    "nombre": "Di Milia, Mónica Beatriz",
+                    "domicilio": "Esmeralda 486",
+                    "domicilio_completo": "Esmeralda 486 P:3° D:E",
+                    "telefonos": "4326-5696 / 4245-8606/4245-8561",
+                    "posicion": [-34.6026244,-58.3804176]
+                },
+                {
+                    "nombre": "Duhm, Gisela",
+                    "domicilio": "Arenales 1166",
+                    "domicilio_completo": "Arenales 1166 P:PB D:C",
+                    "telefonos": "4811-0262",
+                    "posicion": [-34.594491,-58.3860718]
+                },
+                {
+                    "nombre": "Escobar Correa Carolina Marcela",
+                    "domicilio": "Pte. Uriburu 754",
+                    "domicilio_completo": "Pte. Uriburu 754 P:2 D:202",
+                    "telefonos": "4952-5488 / 4952-5496",
+                    "posicion": [-34.6003867,-58.4009647]
+                },
+                {
+                    "nombre": "Eterovich, Norma Veronica",
+                    "domicilio": "Santa Fe 1979",
+                    "domicilio_completo": "Santa Fe 1979 P:5 D:B",
+                    "telefonos": "4814-0509",
+                    "posicion": [-34.5956798,-58.3978904]
+                },
+                {
+                    "nombre": "Favier, Maria Ines",
+                    "domicilio": "J B Alberdi 4255",
+                    "domicilio_completo": "J B Alberdi 4255",
+                    "telefonos": "4672-0857",
+                    "posicion": [-34.6399496,-58.4878264]
+                },
+                {
+                    "nombre": "Garcia Fernandez, Alberto",
+                    "domicilio": "Scalabrini Ortiz 2464",
+                    "domicilio_completo": "Scalabrini Ortiz 2464 P:1 D:C",
+                    "telefonos": "4832-7720 / 4833-4115 / 4811-6901 / 4815",
+                    "posicion": [-34.5854273,-58.4189222]
+                },
+                {
+                    "nombre": "Garofalo, Maria De Los Angeles",
+                    "domicilio": "Larrea 1007",
+                    "domicilio_completo": "Larrea 1007 P:6 D:A",
+                    "telefonos": "4822-7852",
+                    "posicion": [-34.5962178,-58.4035205]
+                },
+                {
+                    "nombre": "Gómez Luciana Beatriz",
+                    "domicilio": "Av. Callao 420 E:1°",
+                    "domicilio_completo": "Av. Callao 420 E:1° P:C",
+                    "telefonos": "4373-0368",
+                    "posicion": [-34.6039924,-58.3924728]
+                },
+                {
+                    "nombre": "Gonzalez Ramos Maria Del Carmen",
+                    "domicilio": "Paraguay 2302",
+                    "domicilio_completo": "Paraguay 2302",
+                    "telefonos": "4966-0051",
+                    "posicion": [-34.6039924,-58.3946615]
+                },
+                {
+                    "nombre": "Grupo Rostagno",
+                    "domicilio": "J.E.Uriburu 1065",
+                    "domicilio_completo": "J.E.Uriburu 1065",
+                    "telefonos": "4821-1109/10/12/32/35",
+                    "posicion": [-34.5960729,-58.398369]
+                },
+                {
+                    "nombre": "Hospital Britanico De Bs.As.",
+                    "domicilio": "Perdriel 74",
+                    "domicilio_completo": "Perdriel 74",
+                    "telefonos": "4304-2051/9 / 4304-1081/9 / 4245 1100",
+                    "posicion": [-34.6344408,-58.3877739]
+                },
+                {
+                    "nombre": "Hospital Universitario Austral",
+                    "domicilio": "Av. Juan Domingo Peron 1500",
+                    "domicilio_completo": "Av. Juan Domingo Peron 1500",
+                    "telefonos": "0230 -4482000",
+                    "posicion": [-34.456463,-58.8667517]
+                },
+                {
+                    "nombre": "Ineba S.A.",
+                    "domicilio": "Guardia Vieja 4435",
+                    "domicilio_completo": "Guardia Vieja 4435",
+                    "telefonos": "4867-7700 / Dr. Gustavo Petracca 4867-77",
+                    "posicion": [-34.5998392,-58.4294941]
+                },
+                {
+                    "nombre": "Instituto Dupuytren Sa",
+                    "domicilio": "Belgrano 3402",
+                    "domicilio_completo": "Belgrano 3402",
+                    "telefonos": "4860-7500 / 4864-4335 / 4865-7512",
+                    "posicion": [-34.6156021,-58.4166291]
+                },
+                {
+                    "nombre": "Jacinto, Valentina",
+                    "domicilio": "Julián Álvarez 2870",
+                    "domicilio_completo": "Julián Álvarez 2870 P:1° D:B",
+                    "telefonos": "4802-1290",
+                    "posicion": [-34.5840029,-58.4132093]
+                },
+                {
+                    "nombre": "Larsen Elisabet Miriam",
+                    "domicilio": "Paraguay 1896",
+                    "domicilio_completo": "Paraguay 1896 P:3º",
+                    "telefonos": "4816-3700",
+                    "posicion": [-34.5987772,-58.3964926]
+                },
+                {
+                    "nombre": "Latorre Maria Clara",
+                    "domicilio": "Uruguay 937",
+                    "domicilio_completo": "Uruguay 937 P:3º D:E",
+                    "telefonos": "4815-8791",
+                    "posicion": [-34.597913,-58.3890895]
+                },
+                {
+                    "nombre": "Lenardon, Raul Luis",
+                    "domicilio": "Av. Pueyrredón 1108",
+                    "domicilio_completo": "Av. Pueyrredón 1108 P:2° D:C",
+                    "telefonos": "4961-4027",
+                    "posicion": [-34.5973416,-58.4057415]
+                },
+                {
+                    "nombre": "Lopez Bertran, Jose Manuel",
+                    "domicilio": "Arenales 1560",
+                    "domicilio_completo": "Arenales 1560 P:6 D:E",
+                    "telefonos": "4811-8948 / 4815-1301",
+                    "posicion": [-34.5948966,-58.3916096]
+                },
+                {
+                    "nombre": "Lustia, María Marcela",
+                    "domicilio": "Paraguay 1307",
+                    "domicilio_completo": "Paraguay 1307 P:6° D:59",
+                    "telefonos": "4814-2848",
+                    "posicion": [-34.5980824,-58.3879277]
+                },
+                {
+                    "nombre": "Migliazza Oyarvide Valeria E",
+                    "domicilio": "Av. Las Heras 1991",
+                    "domicilio_completo": "Av. Las Heras 1991 P:1 D:A",
+                    "telefonos": "3221-1332",
+                    "posicion": [-34.5901256,-58.3959043]
+                },
+                {
+                    "nombre": "Monteros Maria Del Huerto",
+                    "domicilio": "Ciudad De La Paz 1128",
+                    "domicilio_completo": "Ciudad De La Paz 1128 P:1º D:A",
+                    "telefonos": "3967-3278 / 153 847 2374",
+                    "posicion": [-34.5695727,-58.4517066]
+                },
+                {
+                    "nombre": "Nocito Mabel Jimena",
+                    "domicilio": "Juncal 2437",
+                    "domicilio_completo": "Juncal 2437 P:2 D:c",
+                    "telefonos": "4826-6048 / 0351-6719880",
+                    "posicion": [-34.5912007,-58.4038024]
+                },
+                {
+                    "nombre": "Papale, Rosa María",
+                    "domicilio": "Arcos 2400",
+                    "domicilio_completo": "Arcos 2400 P:PB D:A",
+                    "telefonos": "4783-3803",
+                    "posicion": [-34.5577054,-58.4585985]
+                },
+                {
+                    "nombre": "Perazzo Lucrecia",
+                    "domicilio": "Rodriguez Peña 1395",
+                    "domicilio_completo": "Rodriguez Peña 1395 P:11 D:B",
+                    "telefonos": "4812-3483 / 4812- 4735",
+                    "posicion": [-34.5934098,-58.3938996]
+                },
+                {
+                    "nombre": "Perez Silvia Monica",
+                    "domicilio": "Paraguay 1820",
+                    "domicilio_completo": "Paraguay 1820 P:PB",
+                    "telefonos": "4813-2231 / 4225-0776",
+                    "posicion": [-34.5987938,-58.395709]
+                },
+                {
+                    "nombre": "Plante, Guillermo Enrique",
+                    "domicilio": "F. Roosevelt 2524",
+                    "domicilio_completo": "F. Roosevelt 2524 P:6 D:D",
+                    "telefonos": "4782-6527",
+                    "posicion": [-34.5584237,-58.4639064]
+                },
+                {
+                    "nombre": "Pocovi, Marcelo Jose",
+                    "domicilio": "Callao 322",
+                    "domicilio_completo": "Callao 322 P:9 D:D",
+                    "telefonos": "4373-0180 / 4371-6199 / 4543-8467 / 4543",
+                    "posicion": [-34.6053197,-58.3947577]
+                },
+                {
+                    "nombre": "Rodriguez Cabral Alberto Marcelo",
+                    "domicilio": "Ciudad De La Paz 1128",
+                    "domicilio_completo": "Ciudad De La Paz 1128 P:1º D:A",
+                    "telefonos": "3967-3278 / 4702-0725",
+                    "posicion": [-34.5695727,-58.4495179]
+                },
+                {
+                    "nombre": "Rodriguez, Eduardo Adolfo",
+                    "domicilio": "Arenales 2901",
+                    "domicilio_completo": "Arenales 2901 P:1 D:A",
+                    "telefonos": "4821-1020 / 4821-6780",
+                    "posicion": [-34.5908997,-58.4082069]
+                },
+                {
+                    "nombre": "Rossi, Graciela",
+                    "domicilio": "Cordoba 2430",
+                    "domicilio_completo": "Cordoba 2430 P:2 D:A",
+                    "telefonos": "4961-2766 / 4637-5250",
+                    "posicion": [-34.5995501,-58.4037659]
+                },
+                {
+                    "nombre": "Rubiero Maria Lourdes",
+                    "domicilio": "Av. Del Libertador 4894",
+                    "domicilio_completo": "Av. Del Libertador 4894 P:2° D:C",
+                    "telefonos": "3221-1332 / 4772-2418",
+                    "posicion": [-34.5645121,-58.4377672]
+                },
+                {
+                    "nombre": "Sanatorio Anchorena Fund.Inst.Quirúrgico Del Calla",
+                    "domicilio": "Tomas De Anchorena 1872",
+                    "domicilio_completo": "Tomas De Anchorena 1872",
+                    "telefonos": "4808-5400/5500 / 7007-2661 / 4808-5550",
+                    "posicion": [-34.589247,-58.4023877]
+                },
+                {
+                    "nombre": "Sanatorio Modelo Quilmes Sa",
+                    "domicilio": "Andrés Baranda 282",
+                    "domicilio_completo": "Andrés Baranda 282",
+                    "telefonos": "4350 3840",
+                    "posicion": [-34.7189749,-58.2759856]
+                },
+                {
+                    "nombre": "Sanatorio San Lucas Sa . San Isidro",
+                    "domicilio": "Belgrano 363",
+                    "domicilio_completo": "Belgrano 363",
+                    "telefonos": "4732-8888 / 4732-8800",
+                    "posicion": [-34.469738,-58.5127499]
+                },
+                {
+                    "nombre": "Sanchez Leticia Soledad",
+                    "domicilio": "Av. Santa Fe 3373",
+                    "domicilio_completo": "Av. Santa Fe 3373 P:3º D:A",
+                    "telefonos": "4827-5986",
+                    "posicion": [-34.5870685,-58.4147114]
+                },
+                {
+                    "nombre": "Suaya, German Federico",
+                    "domicilio": "Juan Bautista Alberdi 456",
+                    "domicilio_completo": "Juan Bautista Alberdi 456",
+                    "telefonos": "15-66131436",
+                    "posicion": [-34.6231324,-58.4361803]
+                },
+                {
+                    "nombre": "Urruticoechea Maria Ines",
+                    "domicilio": "Esmeralda 486",
+                    "domicilio_completo": "Esmeralda 486 P:3 D:E.F y G",
+                    "telefonos": "4326-5696",
+                    "posicion": [-34.6026244,-58.3782289]
+
+                },
+                {
+                    "nombre": "Valle, Lidia Ester",
+                    "domicilio": "Guemes 4028",
+                    "domicilio_completo": "Guemes 4028 P:7 D:D",
+                    "telefonos": "4982-2484 / 15 5013-2321",
+                    "posicion": [-34.5859001,-58.4200261]
+                },
+                {
+                    "nombre": "Villoldo Valeria Andrea",
+                    "domicilio": "Ayacucho 984",
+                    "domicilio_completo": "Ayacucho 984 P:7 D:A",
+                    "telefonos": "4961-3911 / 4963-5200",
+                    "posicion": [-34.5975689,-58.3983429]
+                },
+                {
+                    "nombre": "Zimman, Sabina",
+                    "domicilio": "Juncal 2437",
+                    "domicilio_completo": "Juncal 2437 P:1° D:A",
+                    "telefonos": "4823-1777",
+                    "posicion": [-34.5912007,-58.4038024]
+                }
+            ]
+        }
+    ]
+}
